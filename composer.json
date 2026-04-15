@@ -1,0 +1,23 @@
+{
+  "name": "doldenroller/kirby-panelbutton-extended",
+  "description": "Kirby button to open or trigger URL or a webhook within the panel",
+  "license": "MIT",
+  "type": "kirby-plugin",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Doldenroller",
+      "email": "tom@doldenroller.de"
+    }
+  ],
+  "keywords": [
+    "kirby5",
+    "kirby5-cms",
+    "kirby5-plugin",
+    "kirby5-panelfield"
+  ],
+  "require": {
+    "php": ">=8.2.0",
+    "getkirby/composer-installer": "^1.1"
+  }
+}
